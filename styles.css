@@ -1,0 +1,8 @@
+h1 { color: black; }
+
+body {  background: blanchedalmond;
+    color: black;
+    font-size: 14pt;
+    font-family: 'Open Sans', sans-serif}
+
+table, th, td {border: 1px solid black}
